@@ -1,2 +1,19 @@
-# Covid-Live-Tracker
-Covid Tracker App With Vue.js &amp; Tailwind
+# covid-live-tracker
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
