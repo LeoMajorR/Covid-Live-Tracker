@@ -1,5 +1,5 @@
 {
-  "name": "covid-live-tracker",
+  "name": "vue-covid-tracker",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
     "@tailwindcss/postcss7-compat": "^2.0.2",
     "autoprefixer": "^9",
     "core-js": "^3.6.5",
-    "moment": "^2.29.1",
+    "dayjs": "^1.10.4",
     "postcss": "^7",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
     "vue": "^3.0.0",
